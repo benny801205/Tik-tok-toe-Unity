@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085343372726",
+    "project_id": "tiktoktoe-8e37f",
+    "storage_bucket": "tiktoktoe-8e37f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085343372726:android:d0aee809f277179bdfdd17",
+        "android_client_info": {
+          "package_name": "com.UniversityofUath.TikTokToe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085343372726-qmos2bvrr1mfdbhda35chn010s1ccqe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfb3k2ip7XrvdIupUompDU_0F0oBKUAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085343372726-qmos2bvrr1mfdbhda35chn010s1ccqe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085343372726-3tqb80snjuohbc1dnjv7nni3gbrrug67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.UniversityofUath.TikTokToe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
