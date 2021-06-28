@@ -1,13 +1,16 @@
 # Tik tok toe/Unity
+ A cross platform online game that allows user to register their account and play game with others on Adroid or IOS.
+## Tools
+ Firebase, Unity
 
- Made by Unity
- 
- a cross platform cell phone game 
- 
- Use Firebase to build a register and log in system.
- 
- Stupid AI player
- 
+
+## Demo
+<img src="examples/1.PNG">
+<img src="examples/2.PNG">
+<img src="examples/3.PNG">
+
+
+
  
  
  
