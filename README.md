@@ -3,6 +3,10 @@
 ## Tools
  Firebase, Unity
 
+## Features
+  Login and Register System
+  History Record
+
 
 ## Demo
 <img src="examples/1.PNG">
